@@ -1,0 +1,5 @@
+<xml>
+<append xpath="/rwgmixer">
+	<prefab_spawn_adjust partial_name="house_shanty_01_svr" biomeTags="forest" min_count="1" max_count="1"/> 
+</append>
+</xml>

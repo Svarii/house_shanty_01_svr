@@ -1,0 +1,2 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context
+house_shanty_01_svr,house_shanty_01_sv,prefab,False,False,"Shadow Man Shanty",""
