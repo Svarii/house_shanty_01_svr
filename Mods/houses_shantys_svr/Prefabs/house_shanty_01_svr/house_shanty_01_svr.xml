@@ -49,11 +49,11 @@
       <property name="0" value="11, 5, 5" />
       <property name="1" value="4, 5, 8" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="8, 7, 13" />
-    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="20, 5, 13" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="8, 7, 13" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="12, 5, 6" />
